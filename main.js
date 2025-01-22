@@ -11,6 +11,6 @@ function calculate() {
     } 
 
 }
-function clear(){
+function clearDisplay(){
     form.display.value = "";
 }
