@@ -12,5 +12,5 @@ function calculate() {
 
 }
 function clear(){
-    document.form.display.value = "";
+    form.display.value = "";
 }
